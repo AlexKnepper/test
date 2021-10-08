@@ -1,7 +1,8 @@
 test test test
 some more testing
 and more
-asldfjdskf
+this is text for feature b
+yep
 
 blog with a dog
 
