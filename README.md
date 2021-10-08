@@ -4,4 +4,4 @@ and more
 this is text for feature b
 yep
 
-yep
+blog with a dog
